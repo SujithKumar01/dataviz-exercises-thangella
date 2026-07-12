@@ -1,3 +1,4 @@
 .git
 .DS_Store
 .vscode/*
+week11/__pycache__/*
